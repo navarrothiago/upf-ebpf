@@ -1,6 +1,6 @@
-> :memo: NOTE 1: This is still an experimental project. The releases were just for quick access of the artifacts presented in the publications (See [docs](docs/) folder.)
->
-> :memo: NOTE 2: There is task force to improve and integrate the upf-bpf project inside the OAI 5G UPF. See [here](https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-upf/-/tree/develop/src/upf_app) for more information.
+🛠️ **INTEGRATION**: The project has been successfully merged and enhanced within the OAI 5G UPF component. For further details, see the [repository](https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-upf/-/tree/master/src/upf_app?ref_type=heads).
+
+📝 **NOTE**: This is an experimental project. The releases are intended for quick access to the artifacts referenced in the publications. Check the [docs](docs/) folder for more information.
 
 # 5G UPF using BPF/XDP
 
